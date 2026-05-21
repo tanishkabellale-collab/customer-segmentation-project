@@ -65,19 +65,19 @@ Dataset Features:
 
 ### Raw Customer Distribution
 
-![Raw Scatterplot](screenshots/raw_scatterplot.png)
+![Raw Scatterplot](raw_scatterplot.png)
 
 ---
 
 ### Elbow Method
 
-![Elbow Method](screenshots/elbow_method.png)
+![Elbow Method](elbow method graph.png)
 
 ---
 
 ### Final Customer Clusters
 
-![Final Clusters](screenshots/final_clusters.png)
+![Final Clusters](final clusters graph.png)
 
 ---
 
