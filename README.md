@@ -77,7 +77,7 @@ Dataset Features:
 
 ### Final Customer Clusters
 
-![Final Clusters](final_clusters_graph.png)
+![Final Clusters](final_cluster_graph.png)
 
 ---
 
