@@ -71,13 +71,13 @@ Dataset Features:
 
 ### Elbow Method
 
-![Elbow Method](elbow method graph.png)
+![Elbow Method](elbow_method_graph.png)
 
 ---
 
 ### Final Customer Clusters
 
-![Final Clusters](final clusters graph.png)
+![Final Clusters](final_clusters_graph.png)
 
 ---
 
